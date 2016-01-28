@@ -1,5 +1,5 @@
 install:
-  - ps: Install-Product node 0.10
+  - ps: Install-Product node 4
   - npm install
 
 build: off
